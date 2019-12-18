@@ -77,12 +77,11 @@
           "projectRegion": "us-east-1",
           "params": {
             "to": "indunil@adroitlogic.com",
-            "cc": "",
+            "cc": "sachithrarajapakse1992@gmail.com",
             "bcc": "",
             "subject": "test1.3.11",
             "body": {
-              "text": "testyyyy",
-              "html": ""
+              "text": "testyyyy"
             }
           }
         }
@@ -121,7 +120,7 @@
     "projectRegion": "us-east-1",
     "platform": "AWS",
     "platformRegions": {},
-    "lastSave": 1576649333428
+    "lastSave": 1576650177749
   },
   "VCS_STATE": {
     "provider": "GitHub",
